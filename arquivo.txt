@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Minha primeira linha
 criada pelo github
+=======
+Minha primeira linha
+feita pelo github.com
+>>>>>>> 2349e0257be116dd4cadb1bf591f885d2396b26e
