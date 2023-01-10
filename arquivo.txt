@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 Minha primeira linha
 criada pelo github
-=======
+
 Minha primeira linha
 feita pelo github.com
 alterando pela branch main220
